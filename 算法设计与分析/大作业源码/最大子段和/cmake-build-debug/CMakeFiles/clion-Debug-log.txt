@@ -1,0 +1,6 @@
+"C:\Program Files\JetBrains\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.2.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\jiang000\Desktop\常用\研究生培养\courses\课程资料\mycpp\暂存\最大子段和 -B C:\Users\jiang000\Desktop\常用\研究生培养\courses\课程资料\mycpp\暂存\最大子段和\cmake-build-debug
+CMake Error at CMakeLists.txt:2 (project):
+  project PROJECT called with incorrect number of arguments
+
+
+-- Configuring incomplete, errors occurred!
